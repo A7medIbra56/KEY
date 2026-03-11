@@ -162,7 +162,7 @@ function Navbar(props: Props) {
                   gap: 1
                 }}
               >
-                MODERN <VpnKeyIcon sx={{ transform: 'rotate(-45deg)', fontSize: 'inherit' }} /> KEY
+                KEYS <VpnKeyIcon sx={{ transform: 'rotate(-45deg)', fontSize: 'inherit' }} /> EXPERTS
               </Typography>
 
               {/* Desktop Menu Links */}
